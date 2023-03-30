@@ -1,0 +1,1 @@
+This folder contains the R script used to perform the statistical analyses for the dissertation. 
